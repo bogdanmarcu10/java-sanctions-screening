@@ -1,8 +1,8 @@
-# 🏦 Java Sanctions Screening System
+Java Sanctions Screening System
 
 Sistem dezvoltat individual în Java pentru verificarea și gestionarea clienților în raport cu listele de sancțiuni internaționale. Aplicația simulează un proces de *client screening* și evaluare a riscurilor, combinând logica de business specifică departamentelor de conformitate bancară cu principii solide de inginerie software.
 
-## 🚀 Tehnologii și Concepte Implementate
+Tehnologii și Concepte Implementate
 
 * **Limbaj:** Java
 * **Arhitectură și Design:** Proiectare inițială realizată folosind diagrame UML pentru o structurare clară a entităților și a fluxului de date.
